@@ -1,6 +1,6 @@
 # Calculadora simples
 
-<img src="Projeto.png" alt="Layout da calculadora">
+<img src="./assets/Projeto.png" alt="Layout da calculadora">
 
 > Este é um projeto de uma calculadora simples com as operações básicas de matemática, desenvolvido com o objetivo de praticar conceitos de front-end. O projeto foi construído usando HTML, CSS, JavaScript e implementação de framework React.JS.
 
